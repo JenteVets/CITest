@@ -1,0 +1,18 @@
+INFO  2015-08-19 11:54:37,137   300ms Program                Main               - Entering application.
+DEBUG 2015-08-19 11:54:37,168   331ms Program                Main               - De logger werkt.
+INFO  2015-08-19 11:55:51,118   330ms Program                Main               - Entering application.
+DEBUG 2015-08-19 11:55:51,133   345ms Program                Main               - De logger werkt.
+INFO  2015-08-19 11:56:42,098   256ms Program                Main               - Entering application.
+DEBUG 2015-08-19 11:56:42,129   287ms Program                Main               - De logger werkt.
+INFO  2015-08-19 11:58:39,735   249ms Program                Main               - Entering application.
+DEBUG 2015-08-19 11:58:39,766   280ms Program                Main               - De logger werkt.
+INFO  2015-08-19 12:00:26,244   184ms Program                Main               - Entering application.
+DEBUG 2015-08-19 12:00:26,259   199ms Program                Main               - De logger werkt.
+INFO  2015-08-19 12:01:05,364   310ms Program                Main               - Entering application.
+INFO  2015-08-19 12:03:10,602   263ms Program                Main               - Entering application.
+DEBUG 2015-08-19 12:03:10,633   294ms Program                Main               - De logger werkt.
+INFO  2015-08-19 12:03:58,157   286ms Program                Main               - Entering application.
+DEBUG 2015-08-19 12:03:58,182   312ms Program                Main               - De logger werkt.
+INFO  2015-08-19 12:05:38,352   196ms Program                Main               - Entering application.
+INFO  2015-08-19 12:06:06,490   289ms Program                Main               - Entering application.
+INFO  2015-08-19 12:07:00,721   258ms Program                Main               - Entering application.

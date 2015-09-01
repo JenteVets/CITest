@@ -1,0 +1,8 @@
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\bin\Debug\log4net.dll
+c:\users\jente\documents\visual studio 2015\Projects\DemoApplicationLogger\ConsoleApplication1\bin\Debug\log4net.xml
